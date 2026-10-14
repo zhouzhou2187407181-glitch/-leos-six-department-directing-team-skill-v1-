@@ -1,0 +1,27 @@
+{
+  "profile_version": "1.0",
+  "project_id": "",
+  "project_name": "",
+  "last_updated": "",
+  "confirmed_rules": [],
+  "candidate_rules": [
+    {
+      "rule_id": "C-STYLE-001",
+      "department": "director|performance|ensemble|cinematography|prompt|continuity|sound",
+      "status": "candidate|confirmed|deprecated|model_specific",
+      "rule": "",
+      "observable_result": "",
+      "applies_to": [],
+      "exceptions": [],
+      "source": "user_feedback|meeting|prompt_review|take_review",
+      "source_ids": [],
+      "confirmed_by": "",
+      "evidence": [],
+      "model_and_version": "",
+      "last_validated": ""
+    }
+  ],
+  "deprecated_rules": [],
+  "model_specific_rules": [],
+  "open_questions": []
+}
